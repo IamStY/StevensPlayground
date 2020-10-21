@@ -1,6 +1,6 @@
 # StevensPlayground
 
-Some practices
+Some practices , just messing around...
 
 
 # function 1 
